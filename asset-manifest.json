@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/contact-info-react.git/static/css/main.6777124e.css",
-    "main.js": "/contact-info-react.git/static/js/main.aa7a784f.js",
-    "static/media/user.png": "/contact-info-react.git/static/media/user.96e310a6add3a711174d.png",
-    "index.html": "/contact-info-react.git/index.html",
-    "main.6777124e.css.map": "/contact-info-react.git/static/css/main.6777124e.css.map",
-    "main.aa7a784f.js.map": "/contact-info-react.git/static/js/main.aa7a784f.js.map"
+    "main.css": "/contact-info-react/static/css/main.6777124e.css",
+    "main.js": "/contact-info-react/static/js/main.866b3218.js",
+    "static/media/user.png": "/contact-info-react/static/media/user.96e310a6add3a711174d.png",
+    "index.html": "/contact-info-react/index.html",
+    "main.6777124e.css.map": "/contact-info-react/static/css/main.6777124e.css.map",
+    "main.866b3218.js.map": "/contact-info-react/static/js/main.866b3218.js.map"
   },
   "entrypoints": [
     "static/css/main.6777124e.css",
-    "static/js/main.aa7a784f.js"
+    "static/js/main.866b3218.js"
   ]
 }
